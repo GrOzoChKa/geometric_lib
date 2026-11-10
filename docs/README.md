@@ -79,9 +79,23 @@ area(5, 10)
 
 area(3, 4, 5)
 
+```python
+import math
+
+def perimeter(r):
+    return 2 * math.pi * r
+```
+
 ## История изменения проэкта 
 
-Хэш d078c8d 
-Хэш 8ba9aeb
+79137b7 (HEAD -> new_1) Added documentation
+035185e 123
+d078c8d (origin/main, origin/HEAD, main) L-03: Docs added
+8ba9aeb L-03: Circle and square added
 
+```python
 
+def perimeter(r):
+    return 2 * math.pi * r
+
+```
